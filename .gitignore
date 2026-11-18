@@ -1,0 +1,8 @@
+# 日志
+*.log
+send_log.txt
+# VSCode 缓存
+.vscode/
+# 系统垃圾
+.DS_Store
+Thumbs.db
